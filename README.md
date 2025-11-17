@@ -1,7 +1,7 @@
 ## ⌨ This is 24
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-RedTeam-FF3B30?style=flat-square&logo=Red tema&logoColor=white" alt="Focus: RedTeam"/>
+    <img src="https://img.shields.io/badge/Focus-RedTeam-D32F2F?style=flat-square&logo=team&logoColor=white" alt="RedTeam"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Now-code audit-F2994A?style=flat-square&logo=security&logoColor=white" alt="Now: code audit"/>
   &nbsp;
@@ -20,4 +20,5 @@
 ## 🚩 Love
 
 ![image-20251117204731999](./img/1.jpg)
+
 
