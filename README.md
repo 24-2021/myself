@@ -3,11 +3,11 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-RedTeam-D32F2F?style=flat-square&logo=team&logoColor=white" alt="RedTeam"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Now-code audit-F2994A?style=flat-square&logo=security&logoColor=white" alt="Now: code audit"/>
+  <img src="https://img.shields.io/badge/Now-Code Audit-F2994A?style=flat-square&logo=security&logoColor=white" alt="Now: Code Audit"/>
   &nbsp;
     <img src="https://img.shields.io/badge/Team-24team-EF476F?style=flat-square&logo=team&logoColor=white" alt="24team"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Love-rock-D32F2F?style=flat-square&logo=team&logoColor=white" alt="rock"/>
+  <img src="https://img.shields.io/badge/Love-Rock-D32F2F?style=flat-square&logo=team&logoColor=white" alt="Rock"/>
   &nbsp;
 
 
@@ -20,6 +20,7 @@
 ## 💋 Love
 
 ![image-20251117204731999](./img/1.jpg)
+
 
 
 
